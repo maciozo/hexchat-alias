@@ -1,4 +1,4 @@
-# hexchat_alias
+# hexchat-alias
 Plugin that allows string aliases in HexChat. Written before I noticed that a similar feature is already built in.
 
 ## Usage
